@@ -18,7 +18,8 @@ var nameRec = call.Record({
     Format: "wav",
     Timeout: 5,
     MaxSilence: 2,
-    Beep: true
+    Beep: true,
+    EscapeDigit: "#"
 });
  
 // Start a conference
