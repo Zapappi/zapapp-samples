@@ -1,7 +1,7 @@
 # Conference Samples
 A collection of samples showcasing features of the Zapappi Conference feature in ZapApp.
 
-## Basic Conference
+## Basic Conference [![Deploy to Zapappi](https://portal.zapappi.com/content/images/deploy_to_zapappi.png)](https://portal.zapappi.com/Portal/Application/Create?manifestUrl=https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-basic.deploy.json)
 A simple conference script that adds each caller into a named conference. When there's only one person in the conference, Music On Hold is played.
 
 [View Script](https://github.com/Zapappi/zapapp-samples/blob/master/Conference/conference-basic.js)
