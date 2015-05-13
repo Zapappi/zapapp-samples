@@ -1,0 +1,5 @@
+{
+	"ApplicationName": "Conference Basic Example",
+	"ApplicationDescription": "A simple conference script that adds each caller into a named conference. When there's only one person in the conference, Music On Hold is played.",
+	"SourceUrl": "https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-basic.js"
+}
