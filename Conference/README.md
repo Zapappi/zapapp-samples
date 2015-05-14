@@ -6,7 +6,7 @@ A simple conference script that adds each caller into a named conference. When t
 
 [View Script](https://github.com/Zapappi/zapapp-samples/blob/master/Conference/conference-basic.js)
 
-## Intermediate Conference
+## Intermediate Conference [![Deploy to Zapappi](https://portal.zapappi.com/content/images/deploy_to_zapappi.png)](https://portal.zapappi.com/Portal/Application/Create?manifestUrl=https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-intermediate.deploy.json)
 Extends on the functionality of the Basic Conference, by adding features such as:
 * Welcome Prompt (TTS)
 * Join Event (with TTS into the conference bridge)
