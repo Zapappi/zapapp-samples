@@ -1,0 +1,5 @@
+{
+	"ApplicationName": "Conference Intermediate Example",
+	"ApplicationDescription": "Extends on the functionality of the Basic Conference, by adding features such as: Welcome Prompt (TTS) and Join Event (with TTS into the conference bridge)",
+	"SourceUrl": "https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-intermediate.js"
+}
