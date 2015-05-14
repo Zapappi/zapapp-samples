@@ -13,7 +13,7 @@ Extends on the functionality of the Basic Conference, by adding features such as
 
 [View Script](https://github.com/Zapappi/zapapp-samples/blob/master/Conference/conference-intermediate.js)
 
-## Advanced Conference
+## Advanced Conference [![Deploy to Zapappi](https://portal.zapappi.com/content/images/deploy_to_zapappi.png)](https://portal.zapappi.com/Portal/Application/Create?manifestUrl=https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-advanced.deploy.json)
 Builds on the Intermediate example by adding the following: 
 * Conference Recording
 * Conference events (Join, Leave, KeyPress)
