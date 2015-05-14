@@ -1,0 +1,5 @@
+{
+	"ApplicationName": "Conference Advanced Example",
+	"ApplicationDescription": "Builds on the Intermediate example by adding the following: Conference Recording, Conference events (Join, Leave, KeyPress), Cloud based storage (AWS), Prompt and Recordings (participants name) and Checking conference return values",
+	"SourceUrl": "https://raw.githubusercontent.com/Zapappi/zapapp-samples/master/Conference/conference-advanced.js"
+}
